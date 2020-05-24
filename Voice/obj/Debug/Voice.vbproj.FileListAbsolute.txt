@@ -1,0 +1,11 @@
+E:\Visual Basic2015.Net Program\Voice\Voice\bin\Debug\Voice.exe.config
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.vbprojResolveAssemblyReference.cache
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.frmVoice.resources
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.Resources.resources
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.vbproj.GenerateResource.Cache
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.xml
+E:\Visual Basic2015.Net Program\Voice\Voice\bin\Debug\Voice.exe
+E:\Visual Basic2015.Net Program\Voice\Voice\bin\Debug\Voice.pdb
+E:\Visual Basic2015.Net Program\Voice\Voice\bin\Debug\Voice.xml
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.exe
+E:\Visual Basic2015.Net Program\Voice\Voice\obj\Debug\Voice.pdb
